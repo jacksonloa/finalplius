@@ -14,6 +14,7 @@ int main()
         num.push_back(input);
         cnt ++;
     }
+    // gg
 
     for(int i = cnt-1; i >= 0; i--)
     {
